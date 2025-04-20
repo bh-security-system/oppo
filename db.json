@@ -1,8 +1,8 @@
 {
   "address": [
     {
-      "post": "https://app.soly.info//2post.php",
-      "get": "https://app.soly.info/2get.php",
+      "post": "https://app.soly.info/post.php",
+      "get": "https://app.soly.info/get.php",
       "server": "https://app.soly.info/server_none.png",
       "user": "https://app.soly.info/user_ban.png"
     }
